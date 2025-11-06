@@ -1,9 +1,10 @@
-안녕하세요, 김영호의 개발 공간입니다!
+안녕하세요, 데이터 엔지니어를 꿈꾸는 김영호입니다.
 ---
 
 ###  About Me
 
-저는 데이터 엔지니어 신입 포지션을 희망하며, 특히 부동산 도메인의 실질적인 문제 해결에 관심을 두고 있습니다. 현재 지리 데이터(Geo-spatial) 처리 역량과 클라우드 기반 ETL 파이프라인 구축을 위한 실습 프로젝트에 집중하고 있습니다.
+저는 데이터 엔지니어 신입 포지션을 희망하며, 다양한 도메인의 실질적인 문제 해결에 관심을 두고 있습니다. 현제 부동산 데이터 처리 역량과 클라우드기반 ETL 파이프라인 구축을 위한 실습 프로젝트에 집중하고 있습니다.
+
 
 ### 🛠️ Tech Stack
 
@@ -11,9 +12,8 @@
 | :--- | :--- |
 | **Languages** | `Python` `SQL`|
 | **Data Orchestraion** | `Airflow`|
-| **Database/Warehousing** | `PostgreSQL (PostGIS)` `MySQL` `MongoDB` `AWS (S3)`|
+| **Database/Warehousing** | `PostgreSQL` `MySQL` `MongoDB` `AWS (S3)`|
 | **Cloud/Infra** | `AWS (S3)` `Docker`|
-| **Geo-spatial** | `PostGIS` `GDAL` `Geopandas`|
 | **Tools** | `Git` `VS Code` `Jupyter Notebook` `Notion` `figma` |
 
 ---
@@ -36,6 +36,21 @@
 **[바로가기](https://github.com/kimyoungho010311/APT-TCN)**
 
 
+#### 3. [Startup Success Predicion Hackathon]
+**간단 설명:** 데이콘에서 주최한 해커톤에 참여하기 위해 진행했던 프로젝트입니다.
+
+**기술 스택:** `Jupter notebook` / `Python` / `Numpy` / `Scikit-Learn` / `Tensorflow`
+
+**[바로가기](https://github.com/kimyoungho010311/Startup_Success_Prediction_Hackathon/tree/main)**
+
+
+#### 4. [Prediction of process abnomalities]
+**간단 설명:** Kaggle에서 제공된 반도체 제조데이터로 이상 공정을 예측하는 프로젝트입니다.
+
+**기술 스택:** `Jupter notebook` / `Python` / `Numpy` / `Scikit-Learn`
+
+**[바로가기](https://github.com/kimyoungho010311/Prediction_of_process_abnormalities)**
+
 ---
 
 ### 📊 My GitHub Stats
@@ -45,6 +60,3 @@
 ### 📬 Contact Me
 
 저와 함께 협업하거나 기술적인 대화를 나누고 싶으시다면 언제든지 연락주세요!
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](YOUR-BLOG-LINK)
