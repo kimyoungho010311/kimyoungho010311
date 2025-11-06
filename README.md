@@ -56,6 +56,13 @@
 
 ### 📊 My GitHub Stats
 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoungho010311&show_icons=true&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim246464)](https://solved.ac/kim246464/)
+
+
+
+
 ---
 
 ### 📬 Contact Me
