@@ -61,10 +61,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim246464)](https://solved.ac/kim246464/)
 
 
-
-
----
-
-### 📬 Contact Me
-
-저와 함께 협업하거나 기술적인 대화를 나누고 싶으시다면 언제든지 연락주세요!
