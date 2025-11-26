@@ -13,7 +13,7 @@
 | :--- | :--- |
 | **Languages** | `Python` `SQL`|
 | **Data Orchestraion** | `Airflow`|
-| **Database/Warehousing** | `PostgreSQL` `MySQL` `MongoDB` `AWS (S3)`|
+| **Database/Warehousing** | `PostgreSQL` `MySQL` `AWS (S3)`|
 | **Cloud/Infra** | `AWS (S3)` `Docker`|
 | **Tools** | `Git` `VS Code` `Jupyter Notebook` `Notion` `figma` |
 
