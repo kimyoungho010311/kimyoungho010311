@@ -29,7 +29,7 @@
 **[바로가기](https://github.com/kimyoungho010311/real-estate-avm)**
 
 
-#### 2. [APT-TCN]
+#### 2. [멀티 모달 데이터를 이용한 TCN 기반 시나리오별 아파트 가격 예측 연구]
 TCN모델을 사용하여 미래의 아파트 매매 가격을 예측하는 논문을 작성하기 위해 연구했던 프로젝트입니다.
 
 **기술 스택:** <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black" />
