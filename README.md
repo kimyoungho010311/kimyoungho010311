@@ -54,6 +54,11 @@ Kaggle에서 제공된 반도체 제조데이터로 이상 공정을 예측하�
 
 ---
 
+### 📜 Certifications
+- SQLD (2026.03.20 취득)
+
+---
+
 ### 📊 My GitHub Stats
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoungho010311&show_icons=true&theme=dark)
