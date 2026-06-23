@@ -12,8 +12,8 @@
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> |
-| **Data Orchestraion** | <img src="https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?&style=for-the-badge&logo=apache%20airflow&logoColor=white" />|
-| **Database/Warehousing** | <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />|
+| **Data Engineering** | <img src="https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?&style=for-the-badge&logo=apache%20airflow&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Flink-%23E6526F.svg?style=for-the-badge&logo=apacheflink&logoColor=white" /> |
+| **Database/Warehousing** | <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%234169E1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />|
 | **Cloud/Infra** | <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />|
 | **Tools** |<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /> 	<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" /> |
 
@@ -21,7 +21,14 @@
 
 ### 🚀 Projects Highlight
 
-#### 1. [Real Estate AVM]
+#### 1. [Sentinel_Fi]
+암호화폐 거래 데이터를 안정적으로 수집하고 급등, 급락탐지 및 실시간 집계를 목표로 한 프로젝트입니다.
+
+**기술 스택:** <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Flink-%23E6526F.svg?style=for-the-badge&logo=apacheflink&logoColor=white" /> <img src="https://img.shields.io/badge/apache%20airflow-%23017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**[바로가기](https://github.com/kimyoungho010311/Sentinel_Fi)**
+
+#### 2. [Real Estate AVM]
 미래 시점의 아파트 매매 가격을 예측하기 위해 필요한 데이터들을 D/W에 저장하여 쉽게 관리하는 프로젝트입니다.
 
 **기술 스택:** <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
@@ -29,7 +36,7 @@
 **[바로가기](https://github.com/kimyoungho010311/real-estate-avm)**
 
 
-#### 2. [멀티 모달 데이터를 이용한 TCN 기반 시나리오별 아파트 가격 예측 연구]
+#### 3. [멀티 모달 데이터를 이용한 TCN 기반 시나리오별 아파트 가격 예측 연구]
 TCN모델을 사용하여 미래의 아파트 매매 가격을 예측하는 논문을 작성하기 위해 연구했던 프로젝트입니다.
 
 **기술 스택:** <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black" />
@@ -37,7 +44,7 @@ TCN모델을 사용하여 미래의 아파트 매매 가격을 예측하는 논�
 **[바로가기](https://github.com/kimyoungho010311/APT-TCN)**
 
 
-#### 3. [Startup Success Predicion Hackathon]
+#### 4. [Startup Success Predicion Hackathon]
 데이콘에서 주최한 해커톤에 참여하기 위해 진행했던 프로젝트입니다.
 
 **기술 스택:** <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black" />
@@ -45,7 +52,7 @@ TCN모델을 사용하여 미래의 아파트 매매 가격을 예측하는 논�
 **[바로가기](https://github.com/kimyoungho010311/Startup_Success_Prediction_Hackathon/tree/main)**
 
 
-#### 4. [Prediction of process abnomalities]
+#### 5. [Prediction of process abnomalities]
 Kaggle에서 제공된 반도체 제조데이터로 이상 공정을 예측하는 프로젝트입니다.
 
 **기술 스택:** <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black" />
