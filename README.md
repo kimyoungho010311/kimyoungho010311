@@ -73,8 +73,3 @@ Kaggle에서 제공된 반도체 제조데이터로 이상 공정을 예측하�
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim246464)](https://solved.ac/kim246464/)
 
 ---
-
-### Links
-Email: ohhunmi24@gmail.com  
-Tech Blog: [데이터 노가다 일지](https://hoho0311.tistory.com/)  
-Notion: [Archive](Archive-1be04fe2aebc803c951ad101e657c295)  
